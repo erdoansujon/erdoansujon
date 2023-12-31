@@ -1,11 +1,7 @@
 ![I am a Frontend Web Developer](https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/411459351_7033600846732412_1089808433718133480_n.png?_nc_cat=104&ccb=1-7&_nc_sid=783fdb&_nc_ohc=ydVGN8SEsWEAX8R1j2T&_nc_ht=scontent.fdac41-1.fna&oh=00_AfDisj36gGzWAF6AhcTfWzwyn2CnbJShGFE5NqS_31TN2g&oe=65950C8D)
-
-
 # Hi there 👋, my name is Md. Sujon Sarder
 ## I am a Frontend Web Developer
-
 🚀 Passionate MERN Stack Developer | React Expert | UI/UX Enthusiast
-
 Hello Dear!
 I'm Erdoan Sujon, a seasoned Front-End Developer with a deep love for crafting seamless and visually stunning user experiences.
 
@@ -50,19 +46,19 @@ Skills:  HTML / CSS/Tailwind CSS/JS/React JS/Next JS/Node JS/Express JS/Firebase
 - 📫 How to reach me: Facebook 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/erdoansujon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/erdoan-sujon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Erdoan Sujon )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Erdoan's Dream)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/erdoansujon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/erdoan-sujon//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sujon.sarder.18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCdTfWBJHyKmdcDnICpPyOFA)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=erdoansujon)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/erdoansujon)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdoansujon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/erdoansujon)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=erdoansujon&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/erdoansujon&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/erdoansujon/contributions?format=svg&private=true)  
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/erdoansujon/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/erdoansujon)  
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/erdoansujon)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=erdoansujon)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/erdoansujon)  
 
